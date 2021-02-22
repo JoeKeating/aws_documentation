@@ -1,0 +1,4 @@
+Global Infrastructure Overview
+
+https://aws.amazon.com/about-aws/global-infrastructure/
+
